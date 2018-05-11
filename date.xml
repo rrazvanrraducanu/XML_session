@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<date>
+    <id>1</id>
+    <nume>trandafiri</nume>
+    <culoare>albe</culoare>
+    <marime>medii</marime>
+    <pret>20</pret>
+   
+</date>
+<date>
+    <id>3</id>
+    <nume>albastrele</nume>
+    <culoare>albe</culoare>
+    <marime>medii</marime>
+    <pret>21</pret>
+    
+</date>
+</root>
